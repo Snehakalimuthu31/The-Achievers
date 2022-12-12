@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century;
+    background-color: rgb(25, 240, 190);
+    
+}
+.s1{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 20px;
+}
+.s2{
+    margin-left: 150px;
+    margin-top: 30px;
+    font-size:12px;
+
+}
+.s3 input{
+    background-color: white;
+    margin-left: 150px;
+    width: 50%;
+    height: 25px;
+    border-color: black;
+    font-family: monospace;
+    color: black;
+}
+.s4 input{
+    background-color: white;
+    color:black;
+    margin-left: 47px;
+    width: 80%;
+    height: 25px;
+    border-color: black;
+    font-family: monospace;
+}
+.s5{
+    display: flex;
+}
+.s6{
+    margin-left: 150px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.s7 input{
+    height: 25px;
+    width: 27%;
+    background-color: white;
+    margin-left: 150px;
+    color:black;
+    border-color: black;
+    font-family: monospace;
+}
+.s8{
+    margin-left: 150px;
+    font-size: 12px;
+}
+.s9 input{
+    margin-left: 150px;
+    background-color: white;
+    height: 25px;
+    width: 27%;
+    color: black;
+    border-color: black;
+}
+.s10{
+    margin-left: 150px;
+    font-size: 12px;
+}
+.s11 {
+    font-size :10px;
+    font-family: monospace;
+    margin-bottom: 15px;
+    margin-top: 14px;
+    margin-left: 150px;
+    display: flex;
+    
+}
+.s12{
+    margin-left: 150px;
+    font-size: 10px;
+    display: flex;
+    border-radius: 20px;
+    
+}
+.s40{
+    margin-left: 150px;
+    display: flex;
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+
+.s13{
+    margin-left: 150px;
+    font-size :12px;
+}
+.s14 input{
+    margin-left: 150px;
+    background-color: white;
+    width: 27%;
+    height: 25px;
+    border-color: black;
+}
+.s15 input{
+    margin-left: 150px;
+    width: 50%;
+    height: 25px;
+    background-color: white;
+    border-color: black;
+    font-family: monospace;
+}
+.s16 input{
+    margin-left: 50px;
+    
+    height: 24px;
+    width:76%;
+    background-color: white;
+    border-color: black;
+    font-family: monospace;
+}
+.s17{
+    display: flex;
+}
+.s18{
+    font-size: 12px;
+    margin-left: 150px;
+}
+.s19 input{
+    margin-left: 150px;
+    background-color: white;
+    border-color: black;
+    width: 27%;
+    height: 25px;
+    font-size: small;
+}
+.s20{
+    margin-left: 150px;
+    font-size: 12px;
+}
+.s21 input{
+    background-color: white;
+    border-color: black;
+    margin-left: 150px;
+    width: 27%;
+    height: 25px;
+}
+.s22{
+    font-size: 12px;
+    margin-left: 150px;
+}
+.s23 input{
+    background-color: white;
+    border-color: black;
+    margin-left: 150px;
+    width: 27%;
+    height: 25px;
+}
+.s24{
+    margin-left: 150px;
+    font-size: 12px;
+}
+.s25 input{
+    background-color: white;
+    border-color: black;
+    margin-left: 150px;
+    width: 27%;
+    height: 25px;
+}
+.ss button{
+    margin-left: 270px;
+    border-radius: 20px;
+    background-color: rgb(238, 132, 149);
+    width: 10%;
+    height: 35px;
+}
+.sr{
+    
+}
